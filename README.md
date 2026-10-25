@@ -21,5 +21,5 @@ Python, Playwright, aiogram, FastAPI, Google Sheets API, Docker
 ## Contact
 
 - Upwork: TODO
-- Fiverr: TODO
+- Fiverr: [akhmetov_zhangi](https://www.fiverr.com/akhmetov_zhangi)
 - Telegram: [@ZhangirAkhmetov](https://t.me/ZhangirAkhmetov)
