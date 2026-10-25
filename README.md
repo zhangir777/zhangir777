@@ -22,4 +22,4 @@ Python, Playwright, aiogram, FastAPI, Google Sheets API, Docker
 
 - Upwork: TODO
 - Fiverr: TODO
-- Telegram: TODO
+- Telegram: [@ZhangirAkhmetov](https://t.me/ZhangirAkhmetov)
