@@ -8,6 +8,7 @@ Python developer: web scraping, Telegram bots, business automation.
 - **Telegram bots**: booking, FAQ and lead bots that let your clients book 24/7 and notify you instantly.
 - **Business automation**: website forms go to Google Sheets and Telegram, with daily summaries and reports.
 - **Excel / Google Sheets cleanup**: messy exports turned into clean tables with totals and charts.
+- **Sales & profit dashboards**: orders and ad spend exports turned into a one-page profit report by month, channel and product.
 
 ## Projects
 
@@ -15,10 +16,11 @@ Python developer: web scraping, Telegram bots, business automation.
 - [telegram-booking-bot](https://github.com/zhangir777/telegram-booking-bot): booking bot for salons, barbers and tutors (RU/KZ/EN)
 - [business-automation-kit](https://github.com/zhangir777/business-automation-kit): lead form, Google Sheets, Telegram, reports
 - [excel-data-cleanup](https://github.com/zhangir777/excel-data-cleanup): messy CSV/Excel export to a clean Excel report with summary and chart
+- [sales-profit-dashboard](https://github.com/zhangir777/sales-profit-dashboard): orders + ad spend exports to a profit dashboard ([live demo](https://zhangir777.github.io/sales-profit-dashboard/))
 
 ## Stack
 
-Python, Playwright, aiogram, FastAPI, openpyxl, Google Sheets API, Docker
+Python, Playwright, aiogram, FastAPI, openpyxl, Google Sheets API, Chart.js, Docker
 
 ## Contact
 
