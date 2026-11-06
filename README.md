@@ -13,7 +13,7 @@ Python developer: web scraping, Telegram bots, business automation.
 
 ## Projects
 
-- [python-scraping-portfolio](https://github.com/zhangir777/python-scraping-portfolio): static and JS sites to formatted Excel, price monitoring, runs in Scrapy Cloud on a schedule
+- [python-scraping-portfolio](https://github.com/zhangir777/python-scraping-portfolio): static and JS sites to formatted Excel, price monitoring, also runs in Scrapy Cloud
 - [telegram-booking-bot](https://github.com/zhangir777/telegram-booking-bot): booking bot for salons, barbers and tutors (RU/KZ/EN)
 - [ai-faq-bot](https://github.com/zhangir777/ai-faq-bot): AI Telegram bot that answers from a company FAQ and collects leads to Excel (EN/RU/KZ)
 - [business-automation-kit](https://github.com/zhangir777/business-automation-kit): lead form, Google Sheets, Telegram, reports
