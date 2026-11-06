@@ -17,6 +17,9 @@ Python developer: web scraping, Telegram bots, business automation.
 - [telegram-booking-bot](https://github.com/zhangir777/telegram-booking-bot): booking bot for salons, barbers and tutors (RU/KZ/EN)
 - [ai-faq-bot](https://github.com/zhangir777/ai-faq-bot): AI Telegram bot that answers from a company FAQ and collects leads to Excel (EN/RU/KZ)
 - [business-automation-kit](https://github.com/zhangir777/business-automation-kit): lead form, Google Sheets, Telegram, reports
+- [rag-pdf-bot](https://github.com/zhangir777/rag-pdf-bot): Telegram bot that answers questions about a PDF and shows the source pages ([try it](https://t.me/zhangirragdemobot))
+- [listings-monitor-bot](https://github.com/zhangir777/listings-monitor-bot): watches Krisha.kz searches and sends new listings to Telegram ([try it](https://t.me/zhangir_monitor_bot))
+- [budget-bot](https://github.com/zhangir777/budget-bot): budget tracker bot, one-line entries, monthly limit, Excel export ([try it](https://t.me/zhangir_budget_bot))
 - [excel-data-cleanup](https://github.com/zhangir777/excel-data-cleanup): messy CSV/Excel export to a clean Excel report with summary and chart
 - [sales-profit-dashboard](https://github.com/zhangir777/sales-profit-dashboard): orders + ad spend exports to a profit dashboard ([live demo](https://zhangir777.github.io/sales-profit-dashboard/))
 
@@ -26,6 +29,7 @@ Python, Playwright, aiogram, LLM APIs (Groq, Gemini), FastAPI, openpyxl, Google 
 
 ## Contact
 
+- Website: [zhangirakhmetov.me](https://zhangirakhmetov.me)
 - Upwork: [Zhangir Akhmetov](https://www.upwork.com/freelancers/~012c68804f9b4d4550)
 - Fiverr: [akhmetov_zhangi](https://www.fiverr.com/akhmetov_zhangi)
 - Telegram: [@ZhangirAkhmetov](https://t.me/ZhangirAkhmetov)
